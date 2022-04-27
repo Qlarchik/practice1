@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="hi_qlar">Hi, Qlar</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="button2">Button</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="organisation">Organisation:</string>
+    <string name="_7_911_111_11_11">+7(911)111-11-11</string>
+    <string name="mirea">MIREA</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="new_life_for_mirea_activity">new life for mirea activity</string>
+</resources>
